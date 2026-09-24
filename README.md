@@ -1,4 +1,6 @@
+**#day 2 and 3**
 <img width="1512" height="982" alt="Screenshot 2026-09-24 at 8 17 43 AM" src="https://github.com/user-attachments/assets/71f9ad14-6430-450b-b61a-a1156b26ed79" />
-#day 2 and 3
+
+**# day1**
 <img width="1512" height="982" alt="Screenshot 2026-09-22 at 2 11 03 PM" src="https://github.com/user-attachments/assets/0352d28e-3404-49e0-9194-b42227d9c68c" />
-# day1
+
